@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity >=0.4.22 < 0.9.0;
 
-//group 13 Capstone Project
+//group 47 Capstone Project
 contract Choppings{
     uint256 public totalSupply = 100000000000000000000000000;
     string public name = 'choppings token';
